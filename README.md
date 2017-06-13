@@ -23,5 +23,7 @@ you can ask for
 
 > -rang - src file included in the lib folder.
 
+[![Watch the video](https://github.com/abdullahfarwees/Personal-Assistant-with-voice-reply/blob/master/ZAZA2.png)](https://youtu.be/kQv7tYpvlZw)
+
 youtube : https://youtu.be/kQv7tYpvlZw
 
