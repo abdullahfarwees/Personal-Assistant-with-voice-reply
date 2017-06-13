@@ -1,0 +1,26 @@
+#ifndef SHOUT_H
+#define SHOUT_H
+
+#include <bits/stdc++.h>
+extern "C"
+{
+#include <espeak/speak_lib.h>
+}
+
+
+using namespace std;
+
+class Shout
+{
+	public:
+
+	Shout();
+	~Shout();
+
+	void init();
+	void speak(string textStr);
+
+
+};
+
+#endif
